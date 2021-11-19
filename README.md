@@ -28,8 +28,15 @@ __________                __                      .__
 ```
 
 ## Contents
-- [Explore Data Center Carbon Credit Protocol.md](explore-data-center-carbon-credit-protocol.md)
+
+### English
+
+- [Explore Data Center Carbon Credit Protocol](explore-data-center-carbon-credit-protocol.md)
 - [Slides: Explore Data Center Carbon Credit Protocol](explore-data-center-carbon-credit-protocol.pdf)
+
+### Chinese
+
+- [探索构建数据中心碳交易协议](explore-data-center-carbon-credit-protocol-zh.md)
 
 
 ## Revision
