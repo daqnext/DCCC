@@ -38,6 +38,21 @@ __________                __                      .__
 
 - [探索构建数据中心碳交易协议](explore-data-center-carbon-credit-protocol-zh.md)
 
+### Russian
+
+- [Изучение вопроса о заключении соглашения о торговле квотами на выбросы углерода для центров обработки данных](explore-data-center-carbon-credit-protocol-ru.md)
+
+### Japanese
+
+- [Data Center Carbon Protocol について](explore-data-center-carbon-credit-protocol-jp.md)
+
+### Korean
+
+- [데이터센터 탄소 프로토콜](explore-data-center-carbon-credit-protocol-kr.md)
+
+### Vietnamese
+
+- [Khám phá giao thức Carbon của các Trung tâm Dữ liệu](explore-data-center-carbon-credit-protocol-vn.md)
 
 ## Revision
 
